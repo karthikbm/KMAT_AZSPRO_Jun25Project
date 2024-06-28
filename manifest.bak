@@ -8,19 +8,17 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="OriginKMAT_Jun2024">1.0</value>
-    <value name="ApiClient">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">7</value>
   <null name="description"/>
   <value name="created_date">25-06-2024 07:21:32 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-06-25T07:23:15.864191519Z</value>
+  <value name="lastUpdated">2024-06-28T07:18:54.661097189Z</value>
   <value name="wmProjectId">fl67ae9123ea2d4b5d9379bd</value>
   <value name="creator">karthik sb</value>
 </Values>
