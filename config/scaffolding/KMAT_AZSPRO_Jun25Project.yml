@@ -7,12 +7,6 @@ packages:
   gitUrl: https://github.com/karthikbm/KMAT_AZSPRO_Jun25Project
   gitUsername: karthikbm
   gitBranch: main
-- name: ApiClient
-  version: "1.0"
-  gitServerName: Karthik
-  gitUrl: https://github.com/karthikbm
-  gitUsername: karthikbm
-  gitBranch: main
 services:
 - serviceName: project.kmat_azspro_jun25.integrations:addints
   packages:
